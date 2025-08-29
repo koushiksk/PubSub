@@ -1,0 +1,45 @@
+# Git
+.git
+.gitignore
+
+# Development dependencies and artifacts
+_build
+deps
+node_modules
+assets/node_modules
+
+# Environment files
+.env
+.env.*
+
+# Testing
+test
+cover
+
+# Documentation
+doc
+docs
+*.md
+
+# IDE files
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+logs
+
+# Temporary files
+tmp
+temp
